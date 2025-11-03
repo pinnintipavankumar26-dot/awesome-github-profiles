@@ -38,10 +38,13 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 ```json
 {
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
+ {
+  "image": "https://github.com/pinnintipavankumar26-dot.png",
+  "issueId": 1,
+  "name": "Pavankumar",
+  "username": "pinnintipavankumar26-dot"
+}
+
 }
 ```
 
@@ -54,3 +57,4 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.  
 
 If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/CODE_OF_CONDUCT.md).
+
